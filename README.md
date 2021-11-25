@@ -1,3 +1,3 @@
-# ECM-Website
-# Apply rule Mobile-First
+# Side Project ECM-Website
+
 
